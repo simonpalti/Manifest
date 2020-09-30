@@ -1,0 +1,38 @@
+{
+  "name": "Dokter Alami",
+  "short_name": "DokterAlami",
+  "start_url": "https://dokteralami.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#0071ad",
+  "description": "Media Informasi Kesehatan",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-e2hQ1ysk9z8/X3QLnR16ZEI/AAAAAAAABZU/pNZpm6FqEDYjTCk6dFUZZRNf5gH6GfDYgCLcBGAsYHQ/s48/logo_dokteralami.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-e2hQ1ysk9z8/X3QLnR16ZEI/AAAAAAAABZU/pNZpm6FqEDYjTCk6dFUZZRNf5gH6GfDYgCLcBGAsYHQ/s72/logo_dokteralami.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-e2hQ1ysk9z8/X3QLnR16ZEI/AAAAAAAABZU/pNZpm6FqEDYjTCk6dFUZZRNf5gH6GfDYgCLcBGAsYHQ/s96/logo_dokteralami.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-e2hQ1ysk9z8/X3QLnR16ZEI/AAAAAAAABZU/pNZpm6FqEDYjTCk6dFUZZRNf5gH6GfDYgCLcBGAsYHQ/s144/logo_dokteralami.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-e2hQ1ysk9z8/X3QLnR16ZEI/AAAAAAAABZU/pNZpm6FqEDYjTCk6dFUZZRNf5gH6GfDYgCLcBGAsYHQ/s168/logo_dokteralami.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-e2hQ1ysk9z8/X3QLnR16ZEI/AAAAAAAABZU/pNZpm6FqEDYjTCk6dFUZZRNf5gH6GfDYgCLcBGAsYHQ/s192/logo_dokteralami.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-e2hQ1ysk9z8/X3QLnR16ZEI/AAAAAAAABZU/pNZpm6FqEDYjTCk6dFUZZRNf5gH6GfDYgCLcBGAsYHQ/s512/logo_dokteralami.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
